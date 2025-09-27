@@ -11,8 +11,6 @@
 
 Backend: [https://file-share-server-k5hr.onrender.com](https://file-share-server-k5hr.onrender.com)
 
-Backend Repo: [https://github.com/SajjanYadav/Server](https://github.com/SajjanYadav/Server)
-
 ---
 
 ## ✨ Features
@@ -122,4 +120,5 @@ This project is licensed under the **MIT License**.
 
 ## 🙋‍♂️ Author
 
-Made with ❤️ by [@SajjanYadav](https://github.com/SajjanYadav)
+Made with ❤️ by [@Umesh1735](https://github.com/Umesh1735)
+
